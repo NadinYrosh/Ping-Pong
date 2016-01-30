@@ -11,6 +11,6 @@ $(document).ready(function() {
           else if (i % 5 === 0){
             output.push("pong");
           }
-          
-  }
+
+  });
 });
